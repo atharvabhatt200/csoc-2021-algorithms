@@ -35,4 +35,3 @@ int main() {
 	cout<<"Minimum number of trials in worst case with "<<n<<" eggs and "<<k<<" floors is "<<egg_puzzle(n, k)<<endl;
 	return 0;
 }
-
